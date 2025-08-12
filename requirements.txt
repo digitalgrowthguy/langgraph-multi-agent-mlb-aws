@@ -5,7 +5,7 @@ langchain==0.1.16
 langchain-anthropic==0.1.8
 langchain-experimental==0.0.57
 langgraph==0.0.34
-pybaseball==2.2.7
-pydantic==1.10.13
+pybaseball==2.3.0
+pydantic==2.7.4
 python-dotenv==1.0.0
 sentence-transformers==2.2.2
