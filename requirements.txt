@@ -8,4 +8,5 @@ langgraph==0.0.34
 pybaseball==2.3.0
 pydantic==2.7.4
 python-dotenv==1.0.0
+python-telegram-bot==22.3
 sentence-transformers==2.2.2
